@@ -3,6 +3,10 @@
 
 **เป้าหมายหลักของผมคือการทำงานกับ NSO Group เพื่อพัฒนา Pegasus spyware 🐎**
 
+**This account is for learning, developing skills, and distributing useful knowledge such as CTF, Code, Cyber Security, Tools, etc. which are in Thai and ENG. Every project will try to make a tutorial clip (if you don't forget)**
+
+**My main goal is to work with NSO Group to develop Pegasus spyware 🐎**
+
 ### Skills
 
 

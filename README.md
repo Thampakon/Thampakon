@@ -14,8 +14,8 @@
 
 ## Skill learning
 * **ASSEMBLY**
-
-
+* **Java**
+* **Vulnerability**
 
 
 <b>My GitHub Stats</b>

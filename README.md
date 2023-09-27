@@ -1,6 +1,6 @@
 
 ## ประสบการณ์
-**Code: 1.3 Year**
+**Coding: 1.3 Year**
 
 **Pentesting: 1 Year**
 
